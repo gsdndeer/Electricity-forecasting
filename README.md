@@ -2,7 +2,8 @@
 
 Use time series data to predict operating reserve of electrical. I used an ARIMA model to forecast future values.
 
-<img src="https://github.com/gsdndeer/Electricity-forecasting/blob/main/figures/operating_reserve.jpg" alt="operating reserve from 20200101 to 20210321">
+![](https://github.com/gsdndeer/Electricity-forecasting/blob/main/figures/operating_reserve.jpg)
+*operating reserve from 20200101 to 20210321*
 
 ## Usage
 
